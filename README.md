@@ -1,1 +1,2 @@
-# Exercises with Python ## （3.5.1）
+# Exercises with Python 
+## Python 3.5.1
