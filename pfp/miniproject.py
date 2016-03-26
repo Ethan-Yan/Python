@@ -11,8 +11,6 @@ def draw():
     brad.right(90)
     brad.forward(200)
 
-    turtle.goto(50, -200)
-    brad.forward(100)
 
     window.exitonclick()
 
