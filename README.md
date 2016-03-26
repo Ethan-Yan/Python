@@ -1,2 +1,1 @@
-# Exercises with Python
-## （3.5.1）
+# Exercises with Python ## （3.5.1）
