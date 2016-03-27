@@ -13,3 +13,25 @@ s[-1], (s + s)[-1]
 # <string>[<expression>:<expression>] --> subsequence
 
 s[0:4]
+
+s[:]
+s + s[0:-1+1]
+s[0:]
+s[:-1]
+s[:3] + s[3:]
+
+# <string>.find(<string>)
+
+s.find('llo')
+
+'test'.find('t')
+"test".find('st')
+"Test".find('te')
+'west'.find('test')
+
+s.find(s)
+s.find('s')
+'s'.find('s')
+s.find('')
+s.find(s + '!!!') + 1
+
