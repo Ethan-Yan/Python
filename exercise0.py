@@ -57,5 +57,3 @@ num = x + 0.5
 s = str(num)
 point = s.find('.')
 print(s[:point])
-
-x = 27.63
