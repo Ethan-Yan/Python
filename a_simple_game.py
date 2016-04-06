@@ -1,6 +1,7 @@
 # A Simple Game
 
-# Object-orientation is very useful when managing different objects and their relations.That is especially useful when you are developing games with different characters and features.
+# Object-orientation is very useful when managing different objects and their relations.
+# That is especially useful when you are developing games with different characters and features.
 
 # Let's look at an example project that shows how classes are used in game development.
 
